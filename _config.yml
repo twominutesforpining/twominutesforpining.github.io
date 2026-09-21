@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Two Minutes For Pining # the main title
 
-tagline: Obsessively curated, emotionally compromised Heated Rivalry fic recs. # it will display as the subtitle
+tagline: Obsessively curated Heated Rivalry fic recs. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Obsessively curated, emotionally compromised Heated Rivalry fic recs.
@@ -26,21 +26,21 @@ description: >- # used by seo meta and the atom feed
 url: "https://twominutesforpining.com"
 
 github:
-  username: github_username # change to your GitHub username
+  username: twominutesforpining # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: 2minsforpining # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: paige
+  email: paige@twominutesforpining.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/2minsforpining # change to your Twitter homepage
+    - https://github.com/twominutesforpining # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
